@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 😁 haha come with me for more better world with exploration.
-- Thank you giving your time on me
+- Thank you giving your time on me.
 
 <!---
 MrSubham51/MrSubham51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
