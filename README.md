@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @MrSubham51
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning it deeply 
-- 💞️ I’m looking to collaborate on github community to self and world also
-- 📫 you can reach me at her
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 😁 haha come with me for more better world with exploration.
-- Thank you giving your time on me.
+- 👋 Hi, I’m Mr. Subham
+- 👀 I’m currently working on Web-Developing include html,css,js and php
+  
+- 🌱 I’m currently learning user-interface, React.
 
-<!---
-MrSubham51/MrSubham51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💬 Ask me about html, css
+  
+- 📫 you can reach me at her mrsubhamkhandelwal2451@gmail.com
+  
+- ⚡ Fun fact: i enter in coding war without strong sword but have full-confident to new it at anycost.
+  
+- 😁 haha come with me for more better world with explorations.
+- Thank you giving your time on me.
