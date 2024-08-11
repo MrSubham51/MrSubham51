@@ -1,7 +1,7 @@
 ![logo](Narayana)
 
 <h1 align="center">Hi 👋, I'm Subham</h1>
-<h3 align="center">Front-End Web Developer| HTML5 |CSS3 | Bootstrap| JavaScript|Gauhati University Institute of Science and Technology (Gauhati). Eager to contribute in A.I advancements world.</h3>
+<h3 align="center">Front-End Web Developer| HTML5 |CSS3 | Bootstrap| JavaScript| Gauhati University Institute of Science & Technology. Eager to contribute in A.I advancements world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsubham51&label=Profile%20views&color=0e75b6&style=flat" alt="mrsubham51" /> </p>
 <p align="right"><img src="https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" alt="Subh gif" width="400px" />
