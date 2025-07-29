@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://devbytesbybytes.blogspot.com/](https://devbytesbybytes.blogspot.com/)
 
-- 📫 How to reach me **mrsubhamkhandelwal2451@gmail.com**
+- 📫 How to reach me **mrsubham1729@gmail.com**
 
 - ⚡ Fun fact **I enter firstly(beginner) in coding war without strong sword but have full-confident to new it at anycost.**
 
